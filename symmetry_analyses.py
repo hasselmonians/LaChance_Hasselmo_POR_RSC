@@ -7,7 +7,7 @@ assess symmetry across 3 domains:
     2. discrete firing locations for each equally spaced head direction
     3. firing locations distributed radially with respect to environment cneter
     
-will save plots for each cell in the cell-specific folder in LaChance_Hasselmo_Nat_Comm_2024/example_cells,
+will save plots for each cell in the cell-specific folder in LaChance_Hasselmo_POR_RSC/example_cells,
 as well as scores for each cell in terms of 1-fold, 2-fold, 3-fold, and 4-fold symmetry in the file symmetry_scores.csv
 
 @author: plachanc

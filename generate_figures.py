@@ -4,10 +4,10 @@ Created on Thu Aug  8 14:04:28 2024
 
 run this file to generate data-based plots from all main figures
 
-plots are saved in a folder for the associated figure wihin LaChance_Hasselmo_Nat_Comm_2024/figures
+plots are saved in a folder for the associated figure wihin LaChance_Hasselmo_POR_RSC/figures
 
-datapoints for population analyses are in LaChance_Hasselmo_Nat_Comm_2024/figures/datapoints
-data for individual example cells shown in the main figures are in LaChance_Hasselmo_Nat_Comm_2024/figures/example_cells
+datapoints for population analyses are in LaChance_Hasselmo_POR_RSC/figures/datapoints
+data for individual example cells shown in the main figures are in LaChance_Hasselmo_POR_RSC/figures/example_cells
 
 @author: plachanc
 """
