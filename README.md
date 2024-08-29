@@ -1,3 +1,3 @@
-Code and data for reproducing all data-based main figure plots for LaChance and Hasselmo, Nature Communications, 2024 (run generate_figures.py). Figure panels saved in 'LaChance_Hasselmo_Nat_Comm_2024/figures' directory.
-Also includes code for running symmetry analyses on example cells from Extended Data Figures 1 (run symmetry_analyses.py). This one takes a bit longer to run. Results and figures saved in 'LaChance_Hasselmo_Nat_Comm_2024/example_cells' directory
+Code and data for reproducing all data-based main figure plots for LaChance and Hasselmo 2024 (run generate_figures.py). Figure panels saved in 'LaChance_Hasselmo_POR_RSC/figures' directory.
+Also includes code for running symmetry analyses on example cells from Supplementary Figures 5 and 6 (run symmetry_analyses.py). This one takes a bit longer to run. Results and figures saved in 'LaChance_Hasselmo_POR_RSC/example_cells' directory
 Requires Python 3.9, matplotlib, seaborn, numpy, scipy, numba, pandas, and built-in tools.
